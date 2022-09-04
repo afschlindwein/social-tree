@@ -1,0 +1,111 @@
+body {
+    background-color: #2A005F;
+    viewport-fit: 100vh;
+}
+
+div {
+    display: block;
+    background-color: #ffffff;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 325px;
+    height: 750px;
+    top: 37px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+img {
+    top: 32px;
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 195px;
+    border-radius: 90px;
+}
+
+h1 {
+    color: #171717;
+    font-size: 34px;
+    display: block;
+    position: relative;
+    top: 26px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    color: #171717;
+    font-size: 17px;
+    display: block;
+    position: relative;
+    top: 9px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr {
+    color: #171717;
+    display: block;
+    position: relative;
+    top: 22px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    color: #171717;
+    font-size: 28px;
+    display: block;
+    position: relative;
+    top: 29px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    color: #171717;
+    font-size: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none;
+    border: 0.5px #171717 solid;
+    border-radius: 15px;
+    width: 300px;
+    height: 50px;
+}
+
+a:link {
+    background-color: rgb(212, 212, 212);
+  }
+  
+  a:visited {
+    background-color: #f2f2f2;
+  }
+  
+  a:hover {
+    background-color: #e6e6e6;
+}
+  
+  a:active {
+    background-color: #dddddd;
+  }
+
+a.linkedin {
+    position: relative;
+    top: 58px;
+}
+
+a.github {
+    position: relative;
+    top: 60px;
+}
+
+a.spotify {
+    position: relative;
+    top: 60px;
+}
+
